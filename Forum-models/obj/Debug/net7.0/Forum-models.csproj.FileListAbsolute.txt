@@ -1,0 +1,11 @@
+C:\Users\student-234\source\repos\Forum\Forum-models\bin\Debug\net7.0\Forum-models.deps.json
+C:\Users\student-234\source\repos\Forum\Forum-models\bin\Debug\net7.0\Forum-models.dll
+C:\Users\student-234\source\repos\Forum\Forum-models\bin\Debug\net7.0\Forum-models.pdb
+C:\Users\student-234\source\repos\Forum\Forum-models\obj\Debug\net7.0\Forum-models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student-234\source\repos\Forum\Forum-models\obj\Debug\net7.0\Forum-models.AssemblyInfoInputs.cache
+C:\Users\student-234\source\repos\Forum\Forum-models\obj\Debug\net7.0\Forum-models.AssemblyInfo.cs
+C:\Users\student-234\source\repos\Forum\Forum-models\obj\Debug\net7.0\Forum-models.csproj.CoreCompileInputs.cache
+C:\Users\student-234\source\repos\Forum\Forum-models\obj\Debug\net7.0\Forum-models.dll
+C:\Users\student-234\source\repos\Forum\Forum-models\obj\Debug\net7.0\refint\Forum-models.dll
+C:\Users\student-234\source\repos\Forum\Forum-models\obj\Debug\net7.0\Forum-models.pdb
+C:\Users\student-234\source\repos\Forum\Forum-models\obj\Debug\net7.0\ref\Forum-models.dll

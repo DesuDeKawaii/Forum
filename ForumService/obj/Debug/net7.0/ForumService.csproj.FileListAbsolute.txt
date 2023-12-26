@@ -1,0 +1,5 @@
+C:\Users\student-234\source\repos\Forum\ForumService\obj\Debug\net7.0\ForumService.csproj.AssemblyReference.cache
+C:\Users\student-234\source\repos\Forum\ForumService\obj\Debug\net7.0\ForumService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student-234\source\repos\Forum\ForumService\obj\Debug\net7.0\ForumService.AssemblyInfoInputs.cache
+C:\Users\student-234\source\repos\Forum\ForumService\obj\Debug\net7.0\ForumService.AssemblyInfo.cs
+C:\Users\student-234\source\repos\Forum\ForumService\obj\Debug\net7.0\ForumService.csproj.CoreCompileInputs.cache

@@ -1,0 +1,17 @@
+C:\Users\student-234\source\repos\Forum\Forum-dblayer\bin\Debug\net7.0\Forum-dblayer.deps.json
+C:\Users\student-234\source\repos\Forum\Forum-dblayer\bin\Debug\net7.0\Forum-dblayer.runtimeconfig.json
+C:\Users\student-234\source\repos\Forum\Forum-dblayer\bin\Debug\net7.0\Forum-dblayer.dll
+C:\Users\student-234\source\repos\Forum\Forum-dblayer\bin\Debug\net7.0\Forum-dblayer.pdb
+C:\Users\student-234\source\repos\Forum\Forum-dblayer\bin\Debug\net7.0\Forum-models.dll
+C:\Users\student-234\source\repos\Forum\Forum-dblayer\bin\Debug\net7.0\Forum-models.pdb
+C:\Users\student-234\source\repos\Forum\Forum-dblayer\obj\Debug\net7.0\Forum-dblayer.csproj.AssemblyReference.cache
+C:\Users\student-234\source\repos\Forum\Forum-dblayer\obj\Debug\net7.0\Forum-dblayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student-234\source\repos\Forum\Forum-dblayer\obj\Debug\net7.0\Forum-dblayer.AssemblyInfoInputs.cache
+C:\Users\student-234\source\repos\Forum\Forum-dblayer\obj\Debug\net7.0\Forum-dblayer.AssemblyInfo.cs
+C:\Users\student-234\source\repos\Forum\Forum-dblayer\obj\Debug\net7.0\Forum-dblayer.csproj.CoreCompileInputs.cache
+C:\Users\student-234\source\repos\Forum\Forum-dblayer\obj\Debug\net7.0\Forum-dblayer.csproj.CopyComplete
+C:\Users\student-234\source\repos\Forum\Forum-dblayer\obj\Debug\net7.0\Forum-dblayer.dll
+C:\Users\student-234\source\repos\Forum\Forum-dblayer\obj\Debug\net7.0\refint\Forum-dblayer.dll
+C:\Users\student-234\source\repos\Forum\Forum-dblayer\obj\Debug\net7.0\Forum-dblayer.pdb
+C:\Users\student-234\source\repos\Forum\Forum-dblayer\obj\Debug\net7.0\Forum-dblayer.genruntimeconfig.cache
+C:\Users\student-234\source\repos\Forum\Forum-dblayer\obj\Debug\net7.0\ref\Forum-dblayer.dll

@@ -1,0 +1,6 @@
+C:\Users\student-234\source\repos\Forum\Forum\obj\Debug\net7.0\Forum.csproj.AssemblyReference.cache
+C:\Users\student-234\source\repos\Forum\Forum\obj\Debug\net7.0\Forum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student-234\source\repos\Forum\Forum\obj\Debug\net7.0\Forum.AssemblyInfoInputs.cache
+C:\Users\student-234\source\repos\Forum\Forum\obj\Debug\net7.0\Forum.AssemblyInfo.cs
+C:\Users\student-234\source\repos\Forum\Forum\obj\Debug\net7.0\Forum.csproj.CoreCompileInputs.cache
+C:\Users\student-234\source\repos\Forum\Forum\obj\Debug\net7.0\Forum.MvcApplicationPartsAssemblyInfo.cache
